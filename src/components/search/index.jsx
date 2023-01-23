@@ -9,7 +9,7 @@ export const Search = (props) => { //console.log(props)
 
     useEffect(()=>{
       props.onHandleInput(input)
-    },[input]) 
+    },[input,props]) 
      
   return (
     <div style={{width:'100%',margin:'20px'}}>

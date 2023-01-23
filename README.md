@@ -15,6 +15,7 @@ In the project directory, you can run:
 * it has two feature only
 * one you can search a country
 * two you can delete a country from the list
+* searching is very dynamic by a single string and it has state lifting function
   
 ## project construction
 - it is create by react 
